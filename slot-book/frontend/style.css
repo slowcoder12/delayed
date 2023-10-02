@@ -1,0 +1,29 @@
+.box {
+    width: 200px;
+    height: 100px;
+    border: 2px solid #000;
+    margin: 10px;
+    padding: 10px;
+    display: inline-block;
+  }
+
+  .hidden {
+    display: none;
+  }
+
+
+  #bookings {
+    margin-top: 20px;
+    display: flex;
+    
+   
+  }
+
+  .booking-box {
+    width: 200px;
+    height: 100px;
+    border: 2px solid #000;
+    margin: 10px;
+    padding: 10px;
+   
+  }
